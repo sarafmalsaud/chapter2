@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chapter 2</string>
+    <string name="description">وصف</string>
+    <string name="btnRecipe">اضغط</string>
+    <string name="txtItem1">٤ طماطم</string>
+    <string name="txtItem2">٦بيزل</string>
+    <string name="txtItem3">٣ ثوم</string>
+    <string name="txtItem4">زيت زيتون</string>
+    <string name="txtDirections">الوصفة</string>
+    <string name="txtMix">اخلط</string>
+    <string name="txtTitle">بروسكتا</string>
+</resources>
